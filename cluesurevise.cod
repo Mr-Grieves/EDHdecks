@@ -10,15 +10,12 @@
         <card number="1" price="0" name="Tezzeret the Schemer"/>
         <card number="1" price="0" name="Tezzeret, Master of Metal"/>
         <card number="1" price="0" name="Tezzeret, Agent of Bolas"/>
-        <card number="1" price="0" name="Parallel Lives"/>
         <card number="1" price="0" name="Confirm Suspicions"/>
-        <card number="1" price="0" name="Tireless Tracker"/>
         <card number="1" price="0" name="Revel in Riches"/>
         <card number="1" price="0" name="Ruthless Knave"/>
         <card number="1" price="0" name="Spell Swindle"/>
         <card number="1" price="0" name="Treasure Map"/>
         <card number="1" price="0" name="Depths of Desire"/>
-        <card number="1" price="0" name="Second Harvest"/>
         <card number="1" price="0" name="Thoughtcast"/>
         <card number="1" price="0" name="Whir of Invention"/>
         <card number="1" price="0" name="Herald of Anguish"/>
@@ -38,41 +35,24 @@
         <card number="1" price="0" name="All Is Dust"/>
         <card number="1" price="0" name="Tamiyo's Journal"/>
         <card number="1" price="0" name="Stoic Rebuttal"/>
-        <card number="1" price="0" name="Simic Signet"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Damnation"/>
         <card number="1" price="0" name="Academy Ruins"/>
         <card number="1" price="0" name="Buried Ruin"/>
-        <card number="1" price="0" name="Seat of the Synod"/>
         <card number="1" price="0" name="Vault of Whispers"/>
         <card number="1" price="0" name="Ash Barrens"/>
-        <card number="1" price="0" name="Sunken Ruins"/>
-        <card number="1" price="0" name="Sunken Hollow"/>
         <card number="1" price="0" name="Whirler Rogue"/>
-        <card number="2" price="0" name="Swamp"/>
-        <card number="8" price="0" name="Island"/>
-        <card number="4" price="0" name="Forest"/>
-        <card number="1" price="0" name="Cultivate"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Foundry of the Consuls"/>
         <card number="1" price="0" name="Hangarback Walker"/>
-        <card number="1" price="0" name="Golgari Signet"/>
-        <card number="1" price="0" name="Heroic Intervention"/>
         <card number="1" price="0" name="Metalspinner's Puzzleknot"/>
-        <card number="1" price="0" name="Weirding Wood"/>
         <card number="1" price="0" name="Myr Battlesphere"/>
         <card number="1" price="0" name="Cyclonic Rift"/>
         <card number="1" price="0" name="Mechanized Production"/>
-        <card number="1" price="0" name="Fetid Pools"/>
-        <card number="1" price="0" name="Opulent Palace"/>
-        <card number="1" price="0" name="Underground River"/>
-        <card number="1" price="0" name="Ongoing Investigation"/>
         <card number="1" price="0" name="Burnished Hart"/>
         <card number="1" price="0" name="Etched Champion"/>
         <card number="1" price="0" name="Myr Welder"/>
-        <card number="1" price="0" name="Doubling Season"/>
         <card number="1" price="0" name="Go for the Throat"/>
-        <card number="1" price="0" name="Beast Within"/>
         <card number="1" price="0" name="Gonti's Aether Heart"/>
         <card number="1" price="0" name="Underhanded Designs"/>
         <card number="1" price="0" name="Brass's Bounty"/>
@@ -80,18 +60,43 @@
         <card number="1" price="0" name="Pitiless Plunderer"/>
         <card number="1" price="0" name="Storm the Vault"/>
         <card number="1" price="0" name="Maverick Thopterist"/>
-        <card number="1" price="0" name="Yidris, Maelstrom Wielder"/>
         <card number="1" price="0" name="Dimir Signet"/>
-        <card number="1" price="0" name="Tree of Tales"/>
         <card number="1" price="0" name="Great Furnace"/>
-        <card number="1" price="0" name="Savage Lands"/>
         <card number="1" price="0" name="Exotic Orchard"/>
+        <card number="1" price="0" name="Anointed Procession"/>
+        <card number="1" price="0" name="Hidden Stockpile"/>
+        <card number="1" price="0" name="Master Trinketeer"/>
+        <card number="1" price="0" name="Servo Schematic"/>
+        <card number="1" price="0" name="Breya, Etherium Shaper"/>
+        <card number="1" price="0" name="Azorius Signet"/>
+        <card number="1" price="0" name="Boros Signet"/>
+        <card number="1" price="0" name="Izzet Signet"/>
+        <card number="1" price="0" name="Rakdos Signet"/>
+        <card number="1" price="0" name="Guardian Beast"/>
+        <card number="1" price="0" name="Trash for Treasure"/>
+        <card number="1" price="0" name="Daretti, Ingenious Iconoclast"/>
+        <card number="1" price="0" name="Seat of the Synod"/>
+        <card number="1" price="0" name="Ancient Den"/>
         <card number="1" price="0" name="Canyon Slough"/>
+        <card number="1" price="0" name="Fetid Pools"/>
+        <card number="1" price="0" name="Irrigated Farmland"/>
+        <card number="1" price="0" name="Sunken Ruins"/>
         <card number="1" price="0" name="Polluted Delta"/>
-        <card number="1" price="0" name="Smoldering Marsh"/>
-        <card number="1" price="0" name="Stomping Ground"/>
-        <card number="1" price="0" name="Misty Rainforest"/>
-        <card number="1" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Mystic Monastery"/>
+        <card number="1" price="0" name="Crumbling Necropolis"/>
+        <card number="1" price="0" name="Arcane Sanctum"/>
+        <card number="1" price="0" name="Nomad Outpost"/>
+        <card number="5" price="0" name="Island"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Bloodstained Mire"/>
+        <card number="1" price="0" name="Flooded Strand"/>
+        <card number="1" price="0" name="Marsh Flats"/>
+        <card number="1" price="0" name="Scalding Tarn"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Yahenni, Undying Partisan"/>
@@ -100,7 +105,6 @@
         <card number="1" price="0" name="Mycosynth Golem"/>
         <card number="1" price="0" name="Metallic Rebuke"/>
         <card number="1" price="0" name="Battle at the Bridge"/>
-        <card number="1" price="0" name="Servo Schematic"/>
         <card number="1" price="0" name="Syndicate Trafficker"/>
         <card number="1" price="0" name="Trail of Evidence"/>
         <card number="1" price="0" name="Tezzeret's Betrayal"/>
@@ -110,7 +114,7 @@
         <card number="1" price="0" name="Summoning Station"/>
         <card number="1" price="0" name="Shape Anew"/>
         <card number="1" price="0" name="Verdant Catacombs"/>
-        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="2" price="0" name="Misty Rainforest"/>
         <card number="1" price="0" name="Polluted Delta"/>
         <card number="1" price="0" name="Skyshroud Forest"/>
         <card number="1" price="0" name="Ulvenwald Mysteries"/>
@@ -122,7 +126,6 @@
         <card number="1" price="0" name="Tangle Wire"/>
         <card number="1" price="0" name="Counterspell"/>
         <card number="1" price="0" name="Tezzeret the Seeker"/>
-        <card number="1" price="0" name="Guardian Beast"/>
         <card number="1" price="0" name="Fatal Push"/>
         <card number="1" price="0" name="Song of the Dryads"/>
         <card number="1" price="0" name="Putrefy"/>
@@ -135,7 +138,7 @@
         <card number="1" price="0" name="Cranial Plating"/>
         <card number="1" price="0" name="Silas Renn, Seeker Adept"/>
         <card number="1" price="0" name="Thopter Assembly"/>
-        <card number="1" price="0" name="Aid from the Cowl"/>
+        <card number="2" price="0" name="Aid from the Cowl"/>
         <card number="1" price="0" name="Nevinyrral's Disk"/>
         <card number="1" price="0" name="Hornswoggle"/>
         <card number="1" price="0" name="Vivid Marsh"/>
@@ -151,5 +154,34 @@
         <card number="1" price="0" name="Sheltered Thicket"/>
         <card number="1" price="0" name="Cinder Glade"/>
         <card number="1" price="0" name="Terramorphic Expanse"/>
+        <card number="1" price="0" name="Golgari Signet"/>
+        <card number="1" price="0" name="Simic Signet"/>
+        <card number="1" price="0" name="Renegade Rallier"/>
+        <card number="1" price="0" name="Tireless Tracker"/>
+        <card number="1" price="0" name="Yidris, Maelstrom Wielder"/>
+        <card number="1" price="0" name="Doubling Season"/>
+        <card number="1" price="0" name="Parallel Lives"/>
+        <card number="1" price="0" name="Weirding Wood"/>
+        <card number="1" price="0" name="Beast Within"/>
+        <card number="1" price="0" name="Heroic Intervention"/>
+        <card number="1" price="0" name="Second Harvest"/>
+        <card number="1" price="0" name="Cultivate"/>
+        <card number="1" price="0" name="Deadeye Harpooner"/>
+        <card number="1" price="0" name="Treasure Hunter"/>
+        <card number="1" price="0" name="Ongoing Investigation"/>
+        <card number="4" price="0" name="Forest"/>
+        <card number="1" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Opulent Palace"/>
+        <card number="1" price="0" name="Savage Lands"/>
+        <card number="1" price="0" name="Stomping Ground"/>
+        <card number="1" price="0" name="Tree of Tales"/>
+        <card number="1" price="0" name="Underground River"/>
+        <card number="1" price="0" name="Sunken Hollow"/>
+        <card number="1" price="0" name="Smoldering Marsh"/>
+        <card number="1" price="0" name="Fetid Pools"/>
+        <card number="1" price="0" name="Canyon Slough"/>
+        <card number="2" price="0" name="Seaside Citadel"/>
+        <card number="3" price="0" name="Island"/>
+        <card number="2" price="0" name="Swamp"/>
     </zone>
 </cockatrice_deck>
