@@ -46,16 +46,12 @@
         <card number="1" price="0" name="Seat of the Synod"/>
         <card number="1" price="0" name="Vault of Whispers"/>
         <card number="1" price="0" name="Ash Barrens"/>
-        <card number="1" price="0" name="Terramorphic Expanse"/>
         <card number="1" price="0" name="Sunken Ruins"/>
         <card number="1" price="0" name="Sunken Hollow"/>
         <card number="1" price="0" name="Whirler Rogue"/>
-        <card number="1" price="0" name="Rogue's Passage"/>
-        <card number="1" price="0" name="Temple of Mystery"/>
-        <card number="1" price="0" name="Temple of Malady"/>
-        <card number="3" price="0" name="Swamp"/>
-        <card number="10" price="0" name="Island"/>
-        <card number="3" price="0" name="Forest"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="8" price="0" name="Island"/>
+        <card number="4" price="0" name="Forest"/>
         <card number="1" price="0" name="Cultivate"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Foundry of the Consuls"/>
@@ -69,10 +65,7 @@
         <card number="1" price="0" name="Mechanized Production"/>
         <card number="1" price="0" name="Fetid Pools"/>
         <card number="1" price="0" name="Opulent Palace"/>
-        <card number="1" price="0" name="Temple of Deceit"/>
-        <card number="1" price="0" name="Llanowar Wastes"/>
         <card number="1" price="0" name="Underground River"/>
-        <card number="1" price="0" name="Yavimaya Coast"/>
         <card number="1" price="0" name="Ongoing Investigation"/>
         <card number="1" price="0" name="Burnished Hart"/>
         <card number="1" price="0" name="Etched Champion"/>
@@ -90,6 +83,15 @@
         <card number="1" price="0" name="Yidris, Maelstrom Wielder"/>
         <card number="1" price="0" name="Dimir Signet"/>
         <card number="1" price="0" name="Tree of Tales"/>
+        <card number="1" price="0" name="Great Furnace"/>
+        <card number="1" price="0" name="Savage Lands"/>
+        <card number="1" price="0" name="Exotic Orchard"/>
+        <card number="1" price="0" name="Canyon Slough"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Smoldering Marsh"/>
+        <card number="1" price="0" name="Stomping Ground"/>
+        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="1" price="0" name="Mountain"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Yahenni, Undying Partisan"/>
@@ -136,5 +138,18 @@
         <card number="1" price="0" name="Aid from the Cowl"/>
         <card number="1" price="0" name="Nevinyrral's Disk"/>
         <card number="1" price="0" name="Hornswoggle"/>
+        <card number="1" price="0" name="Vivid Marsh"/>
+        <card number="1" price="0" name="Vivid Grove"/>
+        <card number="1" price="0" name="Vivid Creek"/>
+        <card number="1" price="0" name="Vivid Crag"/>
+        <card number="1" price="0" name="Temple of Deceit"/>
+        <card number="1" price="0" name="Temple of Malady"/>
+        <card number="1" price="0" name="Temple of Mystery"/>
+        <card number="1" price="0" name="Llanowar Wastes"/>
+        <card number="1" price="0" name="Yavimaya Coast"/>
+        <card number="1" price="0" name="Rogue's Passage"/>
+        <card number="1" price="0" name="Sheltered Thicket"/>
+        <card number="1" price="0" name="Cinder Glade"/>
+        <card number="1" price="0" name="Terramorphic Expanse"/>
     </zone>
 </cockatrice_deck>
