@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" price="0" name="Carnage Tyrant"/>
+        <card number="1" price="0" name="Rampaging Ferocidon"/>
+        <card number="1" price="0" name="Ripjaw Raptor"/>
+        <card number="1" price="0" name="Search for Azcanta"/>
+        <card number="1" price="0" name="Hostage Taker"/>
+        <card number="1" price="0" name="Siren Stormtamer"/>
+        <card number="1" price="0" name="Deathgorge Scavenger"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Vraska, Relic Seeker"/>
+        <card number="1" price="0" name="Ruin Raider"/>
+        <card number="1" price="0" name="Legion's Landing"/>
+    </zone>
+</cockatrice_deck>

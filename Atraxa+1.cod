@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Atraxa+1</deckname>
+    <comments>How high can you count?</comments>
+    <zone name="main">
+        <card number="1" price="0" name="Rishkar, Peema Renegade"/>
+        <card number="1" price="0" name="Scrounging Bandar"/>
+        <card number="1" price="0" name="Walking Ballista"/>
+        <card number="1" price="0" name="Armorcraft Judge"/>
+        <card number="1" price="0" name="Verdurous Gearhulk"/>
+        <card number="1" price="0" name="Winding Constrictor"/>
+        <card number="1" price="0" name="Abrupt Decay"/>
+        <card number="1" price="0" name="Corpsejack Menace"/>
+        <card number="1" price="0" name="Lotleth Troll"/>
+        <card number="1" price="0" name="Doubling Season"/>
+        <card number="1" price="0" name="Hardened Scales"/>
+        <card number="1" price="0" name="Vigor"/>
+        <card number="1" price="0" name="Longshot Squad"/>
+        <card number="1" price="0" name="Gyre Sage"/>
+        <card number="1" price="0" name="Fathom Mage"/>
+        <card number="1" price="0" name="Kalonian Hydra"/>
+        <card number="1" price="0" name="Glen Elendra Archmage"/>
+        <card number="1" price="0" name="Cauldron of Souls"/>
+        <card number="1" price="0" name="Puppeteer Clique"/>
+        <card number="1" price="0" name="Inspiring Call"/>
+        <card number="1" price="0" name="Spike Weaver"/>
+        <card number="1" price="0" name="Birds of Paradise"/>
+        <card number="1" price="0" name="Sol Ring"/>
+        <card number="1" price="0" name="Umezawa's Jitte"/>
+        <card number="1" price="0" name="Harrow"/>
+        <card number="1" price="0" name="Evolving Wilds"/>
+        <card number="1" price="0" name="Misty Rainforest"/>
+        <card number="1" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Verdant Catacombs"/>
+        <card number="1" price="0" name="Drowned Catacomb"/>
+        <card number="1" price="0" name="Hinterland Harbor"/>
+        <card number="1" price="0" name="Woodland Cemetery"/>
+        <card number="1" price="0" name="Bayou"/>
+        <card number="1" price="0" name="Overgrown Tomb"/>
+        <card number="1" price="0" name="Tropical Island"/>
+        <card number="1" price="0" name="Underground Sea"/>
+        <card number="1" price="0" name="Watery Grave"/>
+        <card number="1" price="0" name="Breeding Pool"/>
+        <card number="1" price="0" name="Blooming Marsh"/>
+        <card number="1" price="0" name="Temple of Mystery"/>
+        <card number="1" price="0" name="Temple of Malady"/>
+        <card number="1" price="0" name="Temple of Deceit"/>
+        <card number="1" price="0" name="Opulent Palace"/>
+        <card number="1" price="0" name="Overwhelming Stampede"/>
+        <card number="1" price="0" name="Deepglow Skate"/>
+        <card number="1" price="0" name="Garruk Wildspeaker"/>
+        <card number="1" price="0" name="Scavenging Ooze"/>
+        <card number="1" price="0" name="Bred for the Hunt"/>
+        <card number="1" price="0" name="Command Tower"/>
+        <card number="1" price="0" name="Cytoplast Root-Kin"/>
+        <card number="1" price="0" name="Natural Order"/>
+        <card number="1" price="0" name="Demonic Tutor"/>
+        <card number="1" price="0" name="Yavimaya Hollow"/>
+        <card number="1" price="0" name="Exotic Orchard"/>
+        <card number="1" price="0" name="Gaea's Cradle"/>
+        <card number="1" price="0" name="Wooded Foothills"/>
+        <card number="1" price="0" name="Taiga"/>
+        <card number="9" price="0" name="Forest"/>
+        <card number="5" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Island"/>
+        <card number="1" price="0" name="Nissa, Voice of Zendikar"/>
+        <card number="1" price="0" name="Golgari Charm"/>
+        <card number="1" price="0" name="Reyhan, Last of the Abzan"/>
+        <card number="1" price="0" name="Putrefy"/>
+        <card number="1" price="0" name="Managorger Hydra"/>
+        <card number="1" price="0" name="Reclamation Sage"/>
+        <card number="1" price="0" name="Scute Mob"/>
+        <card number="1" price="0" name="Tooth and Nail"/>
+        <card number="1" price="0" name="Terastodon"/>
+        <card number="1" price="0" name="Heroic Intervention"/>
+        <card number="1" price="0" name="Oracle of Mul Daya"/>
+        <card number="1" price="0" name="Retribution of the Ancients"/>
+        <card number="1" price="0" name="Astral Cornucopia"/>
+        <card number="1" price="0" name="Fertilid"/>
+        <card number="1" price="0" name="Primeval Protector"/>
+        <card number="1" price="0" name="Inexorable Tide"/>
+        <card number="1" price="0" name="Vraska the Unseen"/>
+        <card number="1" price="0" name="Wickerbough Elder"/>
+        <card number="1" price="0" name="Ezuri, Claw of Progress"/>
+        <card number="1" price="0" name="Incremental Blight"/>
+        <card number="1" price="0" name="Necroskitter"/>
+        <card number="1" price="0" name="Blowfly Infestation"/>
+        <card number="1" price="0" name="Soul Snuffers"/>
+        <card number="1" price="0" name="Quillspike"/>
+        <card number="1" price="0" name="Carnifex Demon"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Fairgrounds Trumpeter"/>
+        <card number="1" price="0" name="Rattleclaw Mystic"/>
+        <card number="1" price="0" name="Horizon Canopy"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="1" price="0" name="Sage of Hours"/>
+        <card number="1" price="0" name="Spread the Sickness"/>
+        <card number="1" price="0" name="Necroplasm"/>
+        <card number="1" price="0" name="Dryad Arbor"/>
+        <card number="1" price="0" name="Animation Module"/>
+        <card number="1" price="0" name="Heart of Kiran"/>
+        <card number="1" price="0" name="Skullclamp"/>
+        <card number="1" price="0" name="Chasm Skulker"/>
+        <card number="1" price="0" name="Cytoplast Manipulator"/>
+        <card number="1" price="0" name="Disowned Ancestor"/>
+        <card number="1" price="0" name="Murderous Redcap"/>
+        <card number="1" price="0" name="Drana, Liberator of Malakir"/>
+        <card number="1" price="0" name="Evolutionary Leap"/>
+        <card number="1" price="0" name="Sultai Ascendancy"/>
+        <card number="1" price="0" name="Renegade Krasis"/>
+        <card number="1" price="0" name="Crowned Ceratok"/>
+        <card number="1" price="0" name="Languish"/>
+        <card number="1" price="0" name="Primordial Sage"/>
+        <card number="1" price="0" name="Mer-Ek Nightblade"/>
+        <card number="1" price="0" name="Contagion Clasp"/>
+        <card number="1" price="0" name="Contagion Engine"/>
+        <card number="1" price="0" name="Vorel of the Hull Clade"/>
+        <card number="1" price="0" name="Solidarity of Heroes"/>
+        <card number="1" price="0" name="Gladehart Cavalry"/>
+        <card number="1" price="0" name="Bioshift"/>
+        <card number="1" price="0" name="Volcanic Island"/>
+        <card number="1" price="0" name="Fate Transfer"/>
+        <card number="1" price="0" name="Incremental Growth"/>
+        <card number="1" price="0" name="Rampant Growth"/>
+        <card number="1" price="0" name="Varolz, the Scar-Striped"/>
+        <card number="1" price="0" name="Maulfist Revolutionary"/>
+        <card number="1" price="0" name="Ordeal of Nylea"/>
+        <card number="1" price="0" name="Rabid Bite"/>
+        <card number="1" price="0" name="Elvish Mystic"/>
+        <card number="1" price="0" name="Lightning Greaves"/>
+        <card number="1" price="0" name="Clear Shot"/>
+        <card number="1" price="0" name="Overrun"/>
+        <card number="1" price="0" name="Necropolis Regent"/>
+        <card number="1" price="0" name="Lifecrafter's Gift"/>
+        <card number="1" price="0" name="Botanical Sanctum"/>
+        <card number="1" price="0" name="Darkslick Shores"/>
+        <card number="1" price="0" name="Sunken Hollow"/>
+        <card number="1" price="0" name="Blessings of Nature"/>
+        <card number="1" price="0" name="Forgotten Ancient"/>
+        <card number="1" price="0" name="Tuskguard Captain"/>
+        <card number="1" price="0" name="Asceticism"/>
+        <card number="1" price="0" name="Spiritmonger"/>
+        <card number="1" price="0" name="Woodfall Primus"/>
+        <card number="1" price="0" name="Soul of the Harvest"/>
+        <card number="1" price="0" name="Bramblewood Paragon"/>
+        <card number="1" price="0" name="Master Biomancer"/>
+        <card number="1" price="0" name="Strength of the Tajuru"/>
+        <card number="1" price="0" name="Animar, Soul of Elements"/>
+        <card number="1" price="0" name="Avatar of the Resolute"/>
+        <card number="1" price="0" name="Bloodspore Thrinax"/>
+        <card number="1" price="0" name="Kraum, Ludevic's Opus"/>
+        <card number="1" price="0" name="Lifeblood Hydra"/>
+        <card number="1" price="0" name="Prime Speaker Zegana"/>
+        <card number="1" price="0" name="Ridgescale Tusker"/>
+        <card number="1" price="0" name="Ulvenwald Tracker"/>
+        <card number="1" price="0" name="Primal Vigor"/>
+        <card number="1" price="0" name="Mystic Remora"/>
+        <card number="1" price="0" name="Fellwar Stone"/>
+        <card number="1" price="0" name="Hangarback Walker"/>
+        <card number="1" price="0" name="Primordial Hydra"/>
+        <card number="1" price="0" name="Treasure Cruise"/>
+        <card number="1" price="0" name="Rite of Consumption"/>
+        <card number="1" price="0" name="Ichor Rats"/>
+        <card number="1" price="0" name="Heartmender"/>
+    </zone>
+</cockatrice_deck>
