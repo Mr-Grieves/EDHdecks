@@ -44,7 +44,6 @@
         <card number="1" price="0" name="Academy Ruins"/>
         <card number="1" price="0" name="Buried Ruin"/>
         <card number="1" price="0" name="Seat of the Synod"/>
-        <card number="1" price="0" name="Tree of Tales"/>
         <card number="1" price="0" name="Vault of Whispers"/>
         <card number="1" price="0" name="Ash Barrens"/>
         <card number="1" price="0" name="Terramorphic Expanse"/>
@@ -90,6 +89,7 @@
         <card number="1" price="0" name="Maverick Thopterist"/>
         <card number="1" price="0" name="Yidris, Maelstrom Wielder"/>
         <card number="1" price="0" name="Dimir Signet"/>
+        <card number="1" price="0" name="Tree of Tales"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Yahenni, Undying Partisan"/>
