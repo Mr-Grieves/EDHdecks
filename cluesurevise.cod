@@ -6,7 +6,6 @@
         <card number="1" price="0" name="Broodstar"/>
         <card number="1" price="0" name="Darksteel Citadel"/>
         <card number="1" price="0" name="Darksteel Forge"/>
-        <card number="1" price="0" name="Darksteel Juggernaut"/>
         <card number="1" price="0" name="Machinate"/>
         <card number="1" price="0" name="Tezzeret the Schemer"/>
         <card number="1" price="0" name="Tezzeret, Master of Metal"/>
@@ -34,17 +33,14 @@
         <card number="1" price="0" name="Sage of Lat-Nam"/>
         <card number="1" price="0" name="Quicksmith Spy"/>
         <card number="1" price="0" name="Thopter Spy Network"/>
-        <card number="1" price="0" name="Thopter Assembly"/>
         <card number="1" price="0" name="Trading Post"/>
         <card number="1" price="0" name="Padeem, Consul of Innovation"/>
         <card number="1" price="0" name="All Is Dust"/>
         <card number="1" price="0" name="Tamiyo's Journal"/>
         <card number="1" price="0" name="Stoic Rebuttal"/>
         <card number="1" price="0" name="Simic Signet"/>
-        <card number="1" price="0" name="Dimir Signet"/>
         <card number="1" price="0" name="Sol Ring"/>
         <card number="1" price="0" name="Damnation"/>
-        <card number="1" price="0" name="Aid from the Cowl"/>
         <card number="1" price="0" name="Academy Ruins"/>
         <card number="1" price="0" name="Buried Ruin"/>
         <card number="1" price="0" name="Seat of the Synod"/>
@@ -62,19 +58,14 @@
         <card number="10" price="0" name="Island"/>
         <card number="3" price="0" name="Forest"/>
         <card number="1" price="0" name="Cultivate"/>
-        <card number="1" price="0" name="Thrasios, Triton Hero"/>
-        <card number="1" price="0" name="Silas Renn, Seeker Adept"/>
         <card number="1" price="0" name="Evolving Wilds"/>
-        <card number="1" price="0" name="Cranial Plating"/>
         <card number="1" price="0" name="Foundry of the Consuls"/>
         <card number="1" price="0" name="Hangarback Walker"/>
         <card number="1" price="0" name="Golgari Signet"/>
         <card number="1" price="0" name="Heroic Intervention"/>
         <card number="1" price="0" name="Metalspinner's Puzzleknot"/>
         <card number="1" price="0" name="Weirding Wood"/>
-        <card number="1" price="0" name="Nevinyrral's Disk"/>
         <card number="1" price="0" name="Myr Battlesphere"/>
-        <card number="1" price="0" name="Reshape"/>
         <card number="1" price="0" name="Cyclonic Rift"/>
         <card number="1" price="0" name="Mechanized Production"/>
         <card number="1" price="0" name="Fetid Pools"/>
@@ -90,10 +81,19 @@
         <card number="1" price="0" name="Doubling Season"/>
         <card number="1" price="0" name="Go for the Throat"/>
         <card number="1" price="0" name="Beast Within"/>
+        <card number="1" price="0" name="Gonti's Aether Heart"/>
+        <card number="1" price="0" name="Underhanded Designs"/>
+        <card number="1" price="0" name="Brass's Bounty"/>
+        <card number="1" price="0" name="Pirate's Pillage"/>
+        <card number="1" price="0" name="Pitiless Plunderer"/>
+        <card number="1" price="0" name="Storm the Vault"/>
+        <card number="1" price="0" name="Maverick Thopterist"/>
+        <card number="1" price="0" name="Yidris, Maelstrom Wielder"/>
+        <card number="1" price="0" name="Dimir Signet"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Yahenni, Undying Partisan"/>
-        <card number="1" price="0" name="Contract Killing"/>
+        <card number="2" price="0" name="Contract Killing"/>
         <card number="1" price="0" name="Tribute to the Wild"/>
         <card number="1" price="0" name="Mycosynth Golem"/>
         <card number="1" price="0" name="Metallic Rebuke"/>
@@ -125,5 +125,16 @@
         <card number="1" price="0" name="Song of the Dryads"/>
         <card number="1" price="0" name="Putrefy"/>
         <card number="1" price="0" name="Underhanded Designs"/>
+        <card number="1" price="0" name="Darksteel Juggernaut"/>
+        <card number="1" price="0" name="Ruthless Knave"/>
+        <card number="1" price="0" name="Thrasios, Triton Hero"/>
+        <card number="1" price="0" name="Depths of Desire"/>
+        <card number="1" price="0" name="Reshape"/>
+        <card number="1" price="0" name="Cranial Plating"/>
+        <card number="1" price="0" name="Silas Renn, Seeker Adept"/>
+        <card number="1" price="0" name="Thopter Assembly"/>
+        <card number="1" price="0" name="Aid from the Cowl"/>
+        <card number="1" price="0" name="Nevinyrral's Disk"/>
+        <card number="1" price="0" name="Hornswoggle"/>
     </zone>
 </cockatrice_deck>
