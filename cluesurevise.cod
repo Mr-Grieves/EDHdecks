@@ -46,7 +46,6 @@
         <card number="1" price="0" name="Foundry of the Consuls"/>
         <card number="1" price="0" name="Hangarback Walker"/>
         <card number="1" price="0" name="Metalspinner's Puzzleknot"/>
-        <card number="1" price="0" name="Myr Battlesphere"/>
         <card number="1" price="0" name="Cyclonic Rift"/>
         <card number="1" price="0" name="Mechanized Production"/>
         <card number="1" price="0" name="Burnished Hart"/>
@@ -97,6 +96,7 @@
         <card number="1" price="0" name="Flooded Strand"/>
         <card number="1" price="0" name="Marsh Flats"/>
         <card number="1" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="Enlightened Tutor"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Yahenni, Undying Partisan"/>
@@ -183,5 +183,6 @@
         <card number="2" price="0" name="Seaside Citadel"/>
         <card number="3" price="0" name="Island"/>
         <card number="2" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Myr Battlesphere"/>
     </zone>
 </cockatrice_deck>
