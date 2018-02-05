@@ -18,6 +18,13 @@
         <card number="1" price="0" name="Ambush Krotiq"/>
         <card number="1" price="0" name="Acidic Slime"/>
         <card number="1" price="0" name="Bogardan Hellkite"/>
+        <card number="1" price="0" name="Hardened Scales"/>
+        <card number="1" price="0" name="Kamahl, Fist of Krosa"/>
+        <card number="1" price="0" name="Lightning Serpent"/>
+        <card number="1" price="0" name="Prophet of Kruphix"/>
+        <card number="1" price="0" name="Savageborn Hydra"/>
+        <card number="1" price="0" name="Xenagos, God of Revels"/>
+        <card number="1" price="0" name="Briarhorn"/>
     </zone>
     <zone name="main">
         <card number="1" price="0" name="Hangarback Walker"/>
@@ -26,27 +33,21 @@
         <card number="1" price="0" name="Glimpse of Nature"/>
         <card number="1" price="0" name="Soul of the Harvest"/>
         <card number="1" price="0" name="Zealous Conscripts"/>
-        <card number="1" price="0" name="Xenagos, God of Revels"/>
         <card number="1" price="0" name="Keranos, God of Storms"/>
         <card number="1" price="0" name="Mulldrifter"/>
         <card number="1" price="0" name="Fathom Mage"/>
         <card number="1" price="0" name="Urabrask the Hidden"/>
         <card number="1" price="0" name="Jin-Gitaxias, Core Augur"/>
         <card number="1" price="0" name="Vorinclex, Voice of Hunger"/>
-        <card number="1" price="0" name="Briarhorn"/>
         <card number="1" price="0" name="Lightning Greaves"/>
         <card number="1" price="0" name="Swiftfoot Boots"/>
-        <card number="1" price="0" name="Lightning Serpent"/>
-        <card number="1" price="0" name="Savageborn Hydra"/>
         <card number="1" price="0" name="Mistcutter Hydra"/>
         <card number="1" price="0" name="Edric, Spymaster of Trest"/>
-        <card number="1" price="0" name="Kamahl, Fist of Krosa"/>
         <card number="1" price="0" name="Peregrine Drake"/>
         <card number="1" price="0" name="Man-o'-War"/>
         <card number="1" price="0" name="Solemn Simulacrum"/>
         <card number="1" price="0" name="Fierce Empath"/>
         <card number="1" price="0" name="Glen Elendra Archmage"/>
-        <card number="1" price="0" name="Prophet of Kruphix"/>
         <card number="1" price="0" name="Stratus Dancer"/>
         <card number="1" price="0" name="Willbender"/>
         <card number="1" price="0" name="Chromeshell Crab"/>
@@ -68,7 +69,6 @@
         <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
         <card number="1" price="0" name="Sylvan Ranger"/>
         <card number="1" price="0" name="Evolutionary Leap"/>
-        <card number="1" price="0" name="Hardened Scales"/>
         <card number="1" price="0" name="Prime Speaker Zegana"/>
         <card number="1" price="0" name="Garruk's Packleader"/>
         <card number="1" price="0" name="Heartwood Storyteller"/>
@@ -103,7 +103,7 @@
         <card number="1" price="0" name="Craterhoof Behemoth"/>
         <card number="1" price="0" name="Domri Rade"/>
         <card number="6" price="0" name="Forest"/>
-        <card number="1" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Mountain"/>
         <card number="1" price="0" name="Dryad Arbor"/>
         <card number="1" price="0" name="Copper Myr"/>
         <card number="1" price="0" name="Flametongue Kavu"/>

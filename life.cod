@@ -20,7 +20,6 @@
         <card number="1" price="0" name="Kalastria Highborn"/>
         <card number="1" price="0" name="Kambal, Consul of Allocation"/>
         <card number="1" price="0" name="Tithe Drinker"/>
-        <card number="1" price="0" name="Vizkopa Guildmage"/>
         <card number="1" price="0" name="Drana's Emissary"/>
         <card number="1" price="0" name="Gifted Aetherborn"/>
         <card number="1" price="0" name="Sangromancer"/>
@@ -114,5 +113,6 @@
         <card number="1" price="0" name="Sign in Blood"/>
         <card number="1" price="0" name="Blade of the Bloodchief"/>
         <card number="1" price="0" name="Vampire Nocturnus"/>
+        <card number="1" price="0" name="Vizkopa Guildmage"/>
     </zone>
 </cockatrice_deck>
