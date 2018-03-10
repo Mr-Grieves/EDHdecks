@@ -6,9 +6,7 @@
         <card number="1" price="0" name="Broodstar"/>
         <card number="1" price="0" name="Darksteel Citadel"/>
         <card number="1" price="0" name="Darksteel Forge"/>
-        <card number="1" price="0" name="Machinate"/>
         <card number="1" price="0" name="Tezzeret the Schemer"/>
-        <card number="1" price="0" name="Tezzeret, Master of Metal"/>
         <card number="1" price="0" name="Tezzeret, Agent of Bolas"/>
         <card number="1" price="0" name="Confirm Suspicions"/>
         <card number="1" price="0" name="Revel in Riches"/>
@@ -36,19 +34,15 @@
         <card number="1" price="0" name="Tamiyo's Journal"/>
         <card number="1" price="0" name="Stoic Rebuttal"/>
         <card number="1" price="0" name="Sol Ring"/>
-        <card number="1" price="0" name="Damnation"/>
-        <card number="1" price="0" name="Academy Ruins"/>
         <card number="1" price="0" name="Buried Ruin"/>
         <card number="1" price="0" name="Vault of Whispers"/>
         <card number="1" price="0" name="Ash Barrens"/>
         <card number="1" price="0" name="Whirler Rogue"/>
         <card number="1" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Foundry of the Consuls"/>
-        <card number="1" price="0" name="Hangarback Walker"/>
         <card number="1" price="0" name="Metalspinner's Puzzleknot"/>
         <card number="1" price="0" name="Cyclonic Rift"/>
         <card number="1" price="0" name="Mechanized Production"/>
-        <card number="1" price="0" name="Burnished Hart"/>
         <card number="1" price="0" name="Etched Champion"/>
         <card number="1" price="0" name="Myr Welder"/>
         <card number="1" price="0" name="Go for the Throat"/>
@@ -64,14 +58,12 @@
         <card number="1" price="0" name="Exotic Orchard"/>
         <card number="1" price="0" name="Anointed Procession"/>
         <card number="1" price="0" name="Hidden Stockpile"/>
-        <card number="1" price="0" name="Master Trinketeer"/>
         <card number="1" price="0" name="Servo Schematic"/>
         <card number="1" price="0" name="Breya, Etherium Shaper"/>
         <card number="1" price="0" name="Azorius Signet"/>
         <card number="1" price="0" name="Boros Signet"/>
         <card number="1" price="0" name="Izzet Signet"/>
         <card number="1" price="0" name="Rakdos Signet"/>
-        <card number="1" price="0" name="Guardian Beast"/>
         <card number="1" price="0" name="Trash for Treasure"/>
         <card number="1" price="0" name="Daretti, Ingenious Iconoclast"/>
         <card number="1" price="0" name="Seat of the Synod"/>
@@ -85,18 +77,25 @@
         <card number="1" price="0" name="Crumbling Necropolis"/>
         <card number="1" price="0" name="Arcane Sanctum"/>
         <card number="1" price="0" name="Nomad Outpost"/>
-        <card number="5" price="0" name="Island"/>
+        <card number="6" price="0" name="Island"/>
         <card number="2" price="0" name="Swamp"/>
-        <card number="2" price="0" name="Mountain"/>
-        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Plains"/>
         <card number="1" price="0" name="Terramorphic Expanse"/>
         <card number="1" price="0" name="Rogue's Passage"/>
-        <card number="1" price="0" name="Arid Mesa"/>
         <card number="1" price="0" name="Bloodstained Mire"/>
         <card number="1" price="0" name="Flooded Strand"/>
         <card number="1" price="0" name="Marsh Flats"/>
-        <card number="1" price="0" name="Scalding Tarn"/>
         <card number="1" price="0" name="Enlightened Tutor"/>
+        <card number="1" price="0" name="Duplicant"/>
+        <card number="1" price="0" name="Nevinyrral's Disk"/>
+        <card number="1" price="0" name="Silas Renn, Seeker Adept"/>
+        <card number="1" price="0" name="Myr Battlesphere"/>
+        <card number="1" price="0" name="Cranial Plating"/>
+        <card number="1" price="0" name="End Hostilities"/>
+        <card number="1" price="0" name="Esper Panorama"/>
+        <card number="1" price="0" name="Grixis Panorama"/>
+        <card number="1" price="0" name="Skullclamp"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Yahenni, Undying Partisan"/>
@@ -135,8 +134,6 @@
         <card number="1" price="0" name="Thrasios, Triton Hero"/>
         <card number="1" price="0" name="Depths of Desire"/>
         <card number="1" price="0" name="Reshape"/>
-        <card number="1" price="0" name="Cranial Plating"/>
-        <card number="1" price="0" name="Silas Renn, Seeker Adept"/>
         <card number="1" price="0" name="Thopter Assembly"/>
         <card number="2" price="0" name="Aid from the Cowl"/>
         <card number="1" price="0" name="Nevinyrral's Disk"/>
@@ -183,6 +180,16 @@
         <card number="2" price="0" name="Seaside Citadel"/>
         <card number="3" price="0" name="Island"/>
         <card number="2" price="0" name="Swamp"/>
-        <card number="1" price="0" name="Myr Battlesphere"/>
+        <card number="1" price="0" name="Hangarback Walker"/>
+        <card number="1" price="0" name="Guardian Beast"/>
+        <card number="1" price="0" name="Tezzeret, Master of Metal"/>
+        <card number="1" price="0" name="Machinate"/>
+        <card number="1" price="0" name="Master Trinketeer"/>
+        <card number="1" price="0" name="Damnation"/>
+        <card number="1" price="0" name="Scalding Tarn"/>
+        <card number="1" price="0" name="Arid Mesa"/>
+        <card number="1" price="0" name="Academy Ruins"/>
+        <card number="1" price="0" name="Burnished Hart"/>
+        <card number="1" price="0" name="Austere Command"/>
     </zone>
 </cockatrice_deck>
