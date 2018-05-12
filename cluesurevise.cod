@@ -37,7 +37,6 @@
         <card number="1" name="Ash Barrens"/>
         <card number="1" name="Whirler Rogue"/>
         <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Metalspinner's Puzzleknot"/>
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Etched Champion"/>
         <card number="1" name="Myr Welder"/>
@@ -92,6 +91,7 @@
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Bloodstained Mire"/>
         <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Hangarback Walker"/>
     </zone>
     <zone name="side">
         <card number="1" name="Yahenni, Undying Partisan"/>
@@ -170,7 +170,6 @@
         <card number="2" name="Seaside Citadel"/>
         <card number="3" name="Island"/>
         <card number="2" name="Swamp"/>
-        <card number="1" name="Hangarback Walker"/>
         <card number="1" name="Guardian Beast"/>
         <card number="1" name="Tezzeret, Master of Metal"/>
         <card number="1" name="Machinate"/>
@@ -192,5 +191,7 @@
         <card number="1" name="Foundry of the Consuls"/>
         <card number="1" name="Marsh Flats"/>
         <card number="1" name="Confirm Suspicions"/>
+        <card number="1" name="Metalspinner's Puzzleknot"/>
+        <card number="1" name="Sorcerous Spyglass"/>
     </zone>
 </cockatrice_deck>
