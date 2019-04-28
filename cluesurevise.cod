@@ -8,11 +8,9 @@
         <card number="1" name="Darksteel Forge"/>
         <card number="1" name="Tezzeret the Schemer"/>
         <card number="1" name="Tezzeret, Agent of Bolas"/>
-        <card number="1" name="Revel in Riches"/>
         <card number="1" name="Ruthless Knave"/>
         <card number="1" name="Spell Swindle"/>
         <card number="1" name="Treasure Map"/>
-        <card number="1" name="Depths of Desire"/>
         <card number="1" name="Thoughtcast"/>
         <card number="1" name="Whir of Invention"/>
         <card number="1" name="Herald of Anguish"/>
@@ -21,18 +19,15 @@
         <card number="1" name="Marionette Master"/>
         <card number="1" name="Contraband Kingpin"/>
         <card number="1" name="Time Sieve"/>
-        <card number="1" name="Inventors' Fair"/>
         <card number="1" name="Kuldotha Forgemaster"/>
         <card number="1" name="Sage of Lat-Nam"/>
         <card number="1" name="Quicksmith Spy"/>
         <card number="1" name="Thopter Spy Network"/>
-        <card number="1" name="Trading Post"/>
         <card number="1" name="Padeem, Consul of Innovation"/>
         <card number="1" name="All Is Dust"/>
         <card number="1" name="Tamiyo's Journal"/>
         <card number="1" name="Stoic Rebuttal"/>
         <card number="1" name="Sol Ring"/>
-        <card number="1" name="Buried Ruin"/>
         <card number="1" name="Vault of Whispers"/>
         <card number="1" name="Ash Barrens"/>
         <card number="1" name="Whirler Rogue"/>
@@ -41,7 +36,6 @@
         <card number="1" name="Etched Champion"/>
         <card number="1" name="Myr Welder"/>
         <card number="1" name="Go for the Throat"/>
-        <card number="1" name="Underhanded Designs"/>
         <card number="1" name="Brass's Bounty"/>
         <card number="1" name="Pitiless Plunderer"/>
         <card number="1" name="Storm the Vault"/>
@@ -60,21 +54,17 @@
         <card number="1" name="Trash for Treasure"/>
         <card number="1" name="Seat of the Synod"/>
         <card number="1" name="Ancient Den"/>
-        <card number="1" name="Canyon Slough"/>
-        <card number="1" name="Fetid Pools"/>
-        <card number="1" name="Irrigated Farmland"/>
         <card number="1" name="Sunken Ruins"/>
         <card number="1" name="Polluted Delta"/>
         <card number="1" name="Mystic Monastery"/>
         <card number="1" name="Crumbling Necropolis"/>
         <card number="1" name="Arcane Sanctum"/>
         <card number="1" name="Nomad Outpost"/>
-        <card number="9" name="Island"/>
-        <card number="3" name="Swamp"/>
+        <card number="8" name="Island"/>
+        <card number="4" name="Swamp"/>
         <card number="2" name="Mountain"/>
         <card number="1" name="Plains"/>
         <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Rogue's Passage"/>
         <card number="1" name="Enlightened Tutor"/>
         <card number="1" name="Duplicant"/>
         <card number="1" name="Silas Renn, Seeker Adept"/>
@@ -85,32 +75,36 @@
         <card number="1" name="Daretti, Scrap Savant"/>
         <card number="1" name="Phyrexian Scriptures"/>
         <card number="1" name="The Antiquities War"/>
-        <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Summoning Station"/>
         <card number="1" name="Chromatic Lantern"/>
         <card number="1" name="Flooded Strand"/>
         <card number="1" name="Bloodstained Mire"/>
-        <card number="1" name="Merciless Eviction"/>
         <card number="1" name="Hangarback Walker"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Dispatch"/>
+        <card number="1" name="Thirst for Knowledge"/>
+        <card number="1" name="Jhoira, Weatherlight Captain"/>
+        <card number="1" name="Sacred Foundry"/>
+        <card number="1" name="Godless Shrine"/>
+        <card number="1" name="Steam Vents"/>
+        <card number="1" name="Fetid Pools"/>
+        <card number="1" name="Canyon Slough"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Austere Command"/>
+        <card number="1" name="Baleful Strix"/>
     </zone>
     <zone name="side">
         <card number="1" name="Yahenni, Undying Partisan"/>
-        <card number="1" name="Tribute to the Wild"/>
         <card number="1" name="Mycosynth Golem"/>
         <card number="1" name="Metallic Rebuke"/>
         <card number="1" name="Battle at the Bridge"/>
         <card number="1" name="Syndicate Trafficker"/>
         <card number="1" name="Trail of Evidence"/>
-        <card number="1" name="Tezzeret's Betrayal"/>
         <card number="1" name="Arcbound Ravager"/>
         <card number="1" name="Relic of Progenitus"/>
         <card number="1" name="Memnarch"/>
         <card number="1" name="Shape Anew"/>
-        <card number="1" name="Verdant Catacombs"/>
-        <card number="2" name="Misty Rainforest"/>
         <card number="1" name="Polluted Delta"/>
-        <card number="1" name="Skyshroud Forest"/>
-        <card number="1" name="Ulvenwald Mysteries"/>
         <card number="1" name="Genesis Chamber"/>
         <card number="1" name="Wild-Field Scarecrow"/>
         <card number="1" name="Darksteel Ingot"/>
@@ -119,55 +113,25 @@
         <card number="1" name="Counterspell"/>
         <card number="1" name="Tezzeret the Seeker"/>
         <card number="1" name="Fatal Push"/>
-        <card number="1" name="Song of the Dryads"/>
-        <card number="1" name="Putrefy"/>
         <card number="1" name="Darksteel Juggernaut"/>
-        <card number="1" name="Thrasios, Triton Hero"/>
-        <card number="1" name="Depths of Desire"/>
+        <card number="2" name="Depths of Desire"/>
         <card number="1" name="Reshape"/>
         <card number="1" name="Thopter Assembly"/>
-        <card number="1" name="Nevinyrral's Disk"/>
         <card number="1" name="Hornswoggle"/>
         <card number="1" name="Vivid Marsh"/>
-        <card number="1" name="Vivid Grove"/>
         <card number="1" name="Vivid Creek"/>
         <card number="1" name="Vivid Crag"/>
         <card number="1" name="Temple of Deceit"/>
-        <card number="1" name="Temple of Malady"/>
-        <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Llanowar Wastes"/>
-        <card number="1" name="Yavimaya Coast"/>
-        <card number="1" name="Rogue's Passage"/>
-        <card number="1" name="Sheltered Thicket"/>
-        <card number="1" name="Cinder Glade"/>
+        <card number="2" name="Rogue's Passage"/>
         <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Golgari Signet"/>
-        <card number="1" name="Simic Signet"/>
-        <card number="1" name="Renegade Rallier"/>
-        <card number="1" name="Tireless Tracker"/>
-        <card number="1" name="Yidris, Maelstrom Wielder"/>
-        <card number="1" name="Doubling Season"/>
-        <card number="1" name="Parallel Lives"/>
-        <card number="1" name="Weirding Wood"/>
-        <card number="1" name="Beast Within"/>
-        <card number="1" name="Heroic Intervention"/>
-        <card number="1" name="Second Harvest"/>
-        <card number="1" name="Cultivate"/>
         <card number="1" name="Deadeye Harpooner"/>
         <card number="1" name="Treasure Hunter"/>
-        <card number="1" name="Ongoing Investigation"/>
-        <card number="4" name="Forest"/>
         <card number="1" name="Mountain"/>
-        <card number="2" name="Opulent Palace"/>
-        <card number="1" name="Savage Lands"/>
-        <card number="1" name="Stomping Ground"/>
-        <card number="1" name="Tree of Tales"/>
         <card number="1" name="Underground River"/>
         <card number="1" name="Sunken Hollow"/>
         <card number="1" name="Smoldering Marsh"/>
-        <card number="1" name="Fetid Pools"/>
-        <card number="1" name="Canyon Slough"/>
-        <card number="2" name="Seaside Citadel"/>
+        <card number="2" name="Fetid Pools"/>
+        <card number="2" name="Canyon Slough"/>
         <card number="3" name="Island"/>
         <card number="2" name="Swamp"/>
         <card number="1" name="Guardian Beast"/>
@@ -175,7 +139,6 @@
         <card number="1" name="Machinate"/>
         <card number="1" name="Master Trinketeer"/>
         <card number="1" name="Damnation"/>
-        <card number="2" name="Scalding Tarn"/>
         <card number="1" name="Arid Mesa"/>
         <card number="1" name="Academy Ruins"/>
         <card number="1" name="Burnished Hart"/>
@@ -193,5 +156,13 @@
         <card number="1" name="Confirm Suspicions"/>
         <card number="1" name="Metalspinner's Puzzleknot"/>
         <card number="1" name="Sorcerous Spyglass"/>
+        <card number="1" name="Merciless Eviction"/>
+        <card number="1" name="Inventors' Fair"/>
+        <card number="1" name="Buried Ruin"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="1" name="Trading Post"/>
+        <card number="1" name="Underhanded Designs"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Unwinding Clock"/>
     </zone>
 </cockatrice_deck>
