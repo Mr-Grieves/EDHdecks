@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Augury Owl"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Blade Splicer"/>
+        <card number="1" name="Eldrazi Displacer"/>
+        <card number="1" name="Fiend Hunter"/>
+        <card number="1" name="Flickerwisp"/>
+        <card number="1" name="Man-o'-War"/>
+        <card number="1" name="Mangara of Corondor"/>
+        <card number="1" name="Mentor of the Meek"/>
+        <card number="1" name="Reflector Mage"/>
+        <card number="1" name="Brago, King Eternal"/>
+        <card number="1" name="Felidar Guardian"/>
+        <card number="1" name="Glen Elendra Archmage"/>
+        <card number="1" name="Glimmerpoint Stag"/>
+        <card number="1" name="Kor Cartographer"/>
+        <card number="1" name="Solemn Simulacrum"/>
+        <card number="1" name="Venser, Shaper Savant"/>
+        <card number="1" name="Whirler Rogue"/>
+        <card number="1" name="Cloudblazer"/>
+        <card number="1" name="Karmic Guide"/>
+        <card number="1" name="Lavinia of the Tenth"/>
+        <card number="1" name="Mulldrifter"/>
+        <card number="1" name="Peregrine Drake"/>
+        <card number="1" name="Reveillark"/>
+        <card number="1" name="Riftwing Cloudskate"/>
+        <card number="1" name="Deadeye Navigator"/>
+        <card number="1" name="Duplicant"/>
+        <card number="1" name="Sun Titan"/>
+        <card number="1" name="Sunblast Angel"/>
+        <card number="1" name="Angel of Serenity"/>
+        <card number="1" name="Diluvian Primordial"/>
+        <card number="1" name="Cloudshift"/>
+        <card number="1" name="Essence Flux"/>
+        <card number="1" name="Sol Ring"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Voyager Staff"/>
+        <card number="1" name="Azorius Signet"/>
+        <card number="1" name="Fellwar Stone"/>
+        <card number="1" name="Lightning Greaves"/>
+        <card number="1" name="Mind Stone"/>
+        <card number="1" name="Momentary Blink"/>
+        <card number="1" name="Swiftfoot Boots"/>
+        <card number="1" name="Talisman of Progress"/>
+        <card number="1" name="Act of Authority"/>
+        <card number="1" name="Basalt Monolith"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Ghostly Flicker"/>
+        <card number="1" name="Ghostway"/>
+        <card number="1" name="Reality Acid"/>
+        <card number="1" name="Unquestioned Authority"/>
+        <card number="1" name="Nevinyrral's Disk"/>
+        <card number="1" name="Panharmonicon"/>
+        <card number="1" name="Venser, the Sojourner"/>
+        <card number="1" name="Spine of Ish Sah"/>
+        <card number="1" name="Adarkar Wastes"/>
+        <card number="1" name="Azorius Chancery"/>
+        <card number="1" name="Command Tower"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Ghost Quarter"/>
+        <card number="1" name="Glacial Fortress"/>
+        <card number="1" name="Hallowed Fountain"/>
+        <card number="1" name="Irrigated Farmland"/>
+        <card number="8" name="Island"/>
+        <card number="1" name="Mystic Gate"/>
+        <card number="1" name="Nimbus Maze"/>
+        <card number="13" name="Plains"/>
+        <card number="1" name="Port Town"/>
+        <card number="1" name="Prairie Stream"/>
+        <card number="1" name="Reliquary Tower"/>
+        <card number="1" name="Rogue's Passage"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Mana Vault"/>
+        <card number="1" name="Wastes"/>
+        <card number="1" name="Gilded Lotus"/>
+        <card number="1" name="Omenspeaker"/>
+        <card number="1" name="Thran Dynamo"/>
+        <card number="1" name="Prophetic Prism"/>
+        <card number="1" name="Conjurer's Closet"/>
+        <card number="1" name="Path to Exile"/>
+    </zone>
+    <zone name="side">
+        <card number="1" name="Grim Monolith"/>
+        <card number="1" name="Tempest Caller"/>
+        <card number="1" name="War Priest of Thune"/>
+        <card number="1" name="Plains"/>
+        <card number="1" name="Cloudfin Raptor"/>
+        <card number="1" name="Marble Diamond"/>
+        <card number="1" name="Sky Diamond"/>
+        <card number="1" name="Star Compass"/>
+        <card number="1" name="Strionic Resonator"/>
+        <card number="1" name="Whispersilk Cloak"/>
+    </zone>
+</cockatrice_deck>

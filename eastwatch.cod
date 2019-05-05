@@ -35,9 +35,6 @@
         <card number="1" name="Command Tower"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Selesnya Guildgate"/>
-        <card number="1" name="Azorius Guildgate"/>
-        <card number="1" name="Simic Guildgate"/>
         <card number="1" name="Prairie Stream"/>
         <card number="1" name="Canopy Vista"/>
         <card number="1" name="Temple of Mystery"/>
@@ -47,6 +44,9 @@
         <card number="3" name="Island"/>
         <card number="2" name="Plains"/>
         <card number="1" name="Negate"/>
+        <card number="1" name="Flooded Strand"/>
+        <card number="1" name="Scattered Groves"/>
+        <card number="1" name="Hinterland Harbor"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mentor of the Meek"/>
@@ -54,10 +54,15 @@
         <card number="1" name="Plumeveil"/>
         <card number="1" name="Always Watching"/>
         <card number="1" name="Wave of Reckoning"/>
-        <card number="1" name="Wall of Omens"/>
         <card number="1" name="Sunpetal Grove"/>
         <card number="1" name="Glacial Fortress"/>
         <card number="1" name="Hinterland Harbor"/>
         <card number="1" name="Jungle Barrier"/>
+        <card number="1" name="Teyo, the Shieldmage"/>
+        <card number="1" name="Wall of Omens"/>
+        <card number="1" name="Gatecreeper Vine"/>
+        <card number="1" name="Doorkeeper"/>
+        <card number="1" name="Eerie Interlude"/>
+        <card number="1" name="Return to Dust"/>
     </zone>
 </cockatrice_deck>

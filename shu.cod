@@ -18,7 +18,6 @@
         <card number="1" name="Slip Through Space"/>
         <card number="1" name="Azorius Signet"/>
         <card number="1" name="Izzet Signet"/>
-        <card number="1" name="Boros Signet"/>
         <card number="1" name="Treasure Cruise"/>
         <card number="1" name="Narset Transcendent"/>
         <card number="1" name="Distortion Strike"/>
@@ -28,8 +27,6 @@
         <card number="1" name="Jori En, Ruin Diver"/>
         <card number="1" name="Fact or Fiction"/>
         <card number="1" name="Flooded Strand"/>
-        <card number="1" name="Scalding Tarn"/>
-        <card number="1" name="Arid Mesa"/>
         <card number="1" name="Temple of Enlightenment"/>
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Temple of Triumph"/>
@@ -39,8 +36,8 @@
         <card number="1" name="Steam Vents"/>
         <card number="1" name="Sacred Foundry"/>
         <card number="5" name="Island"/>
-        <card number="2" name="Mountain"/>
-        <card number="1" name="Plains"/>
+        <card number="3" name="Mountain"/>
+        <card number="2" name="Plains"/>
         <card number="1" name="Gods Willing"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Compulsive Research"/>
@@ -48,31 +45,23 @@
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Valorous Stance"/>
+        <card number="1" name="Augur of Bolas"/>
     </zone>
     <zone name="side">
-        <card number="1" name="Enigma Drake"/>
         <card number="1" name="Arclight Phoenix"/>
-        <card number="1" name="Augur of Bolas"/>
         <card number="1" name="Feather, the Redeemed"/>
         <card number="1" name="Goblin Dark-Dwellers"/>
         <card number="1" name="Kiln Fiend"/>
-        <card number="1" name="Mirrorwing Dragon"/>
-        <card number="1" name="Mizzix of the Izmagnus"/>
         <card number="1" name="Mnemonic Wall"/>
         <card number="1" name="Murmuring Mystic"/>
-        <card number="1" name="Niblis of Frost"/>
-        <card number="1" name="Taigam, Ojutai Master"/>
         <card number="1" name="Spellseeker"/>
-        <card number="1" name="Sol Ring"/>
         <card number="1" name="Guttersnipe"/>
         <card number="1" name="Dreadhorde Arcanist"/>
-        <card number="1" name="Terramorphic Expanse"/>
-        <card number="1" name="Snapcaster Mage"/>
         <card number="1" name="Chain Lightning"/>
         <card number="1" name="Talrand, Sky Summoner"/>
         <card number="1" name="Crackling Drake"/>
-        <card number="1" name="Island"/>
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Jeskai Ascendancy"/>
+        <card number="1" name="Titan's Strength"/>
     </zone>
 </cockatrice_deck>
