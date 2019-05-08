@@ -18,7 +18,6 @@
         <card number="1" name="Stalwart Shield-Bearers"/>
         <card number="1" name="Assault Formation"/>
         <card number="1" name="Tower Defense"/>
-        <card number="1" name="Vine Trellis"/>
         <card number="1" name="Tetsuko Umezawa, Fugitive"/>
         <card number="1" name="Mnemonic Wall"/>
         <card number="1" name="Fell the Mighty"/>
@@ -30,23 +29,20 @@
         <card number="1" name="Path to Exile"/>
         <card number="1" name="Apostle's Blessing"/>
         <card number="1" name="Beast Within"/>
-        <card number="1" name="Explosive Vegetation"/>
-        <card number="1" name="Seaside Citadel"/>
-        <card number="1" name="Command Tower"/>
-        <card number="1" name="Evolving Wilds"/>
-        <card number="1" name="Reliquary Tower"/>
-        <card number="1" name="Prairie Stream"/>
-        <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Temple of Mystery"/>
-        <card number="1" name="Temple of Enlightenment"/>
-        <card number="1" name="Temple of Plenty"/>
-        <card number="4" name="Forest"/>
-        <card number="3" name="Island"/>
-        <card number="2" name="Plains"/>
         <card number="1" name="Negate"/>
-        <card number="1" name="Flooded Strand"/>
-        <card number="1" name="Scattered Groves"/>
-        <card number="1" name="Hinterland Harbor"/>
+        <card number="1" name="Wall of Roots"/>
+        <card number="1" name="Cultivate"/>
+        <card number="1" name="Terramorphic Expanse"/>
+        <card number="1" name="Evolving Wilds"/>
+        <card number="1" name="Windswept Heath"/>
+        <card number="1" name="Breeding Pool"/>
+        <card number="1" name="Temple Garden"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Temple of Mystery"/>
+        <card number="1" name="Yavimaya Coast"/>
+        <card number="6" name="Plains"/>
+        <card number="4" name="Island"/>
+        <card number="3" name="Forest"/>
     </zone>
     <zone name="side">
         <card number="1" name="Mentor of the Meek"/>

@@ -12,7 +12,6 @@
         <card number="1" name="Soul Snuffers"/>
         <card number="1" name="Contagion Clasp"/>
         <card number="1" name="Contagion Engine"/>
-        <card number="1" name="Gemstone Mine"/>
         <card number="1" name="Hapatra, Vizier of Poisons"/>
         <card number="1" name="Nest of Scarabs"/>
         <card number="1" name="As Foretold"/>
@@ -34,37 +33,38 @@
         <card number="1" name="Exotic Orchard"/>
         <card number="1" name="Flourishing Defenses"/>
         <card number="1" name="Skullclamp"/>
-        <card number="1" name="Sakura-Tribe Elder"/>
         <card number="1" name="Dreadship Reef"/>
-        <card number="1" name="Canopy Vista"/>
-        <card number="1" name="Sunken Hollow"/>
-        <card number="1" name="Flooded Strand"/>
         <card number="1" name="Evolving Wilds"/>
-        <card number="4" name="Swamp"/>
+        <card number="3" name="Swamp"/>
         <card number="1" name="Island"/>
         <card number="1" name="Plains"/>
-        <card number="2" name="Forest"/>
+        <card number="3" name="Forest"/>
         <card number="1" name="Beast Within"/>
         <card number="1" name="Lazotep Plating"/>
         <card number="1" name="Fate Transfer"/>
         <card number="1" name="Orzhov Signet"/>
-        <card number="1" name="Selesnya Signet"/>
+        <card number="1" name="Golgari Signet"/>
+        <card number="1" name="Bloom Tender"/>
+        <card number="1" name="Marsh Flats"/>
+        <card number="1" name="Misty Rainforest"/>
+        <card number="1" name="Verdant Catacombs"/>
+        <card number="1" name="Mirrodin's Core"/>
     </zone>
     <zone name="side">
         <card number="1" name="Cauldron of Souls"/>
-        <card number="1" name="Dimir Signet"/>
-        <card number="1" name="Aether Hub"/>
         <card number="1" name="City of Shadows"/>
-        <card number="1" name="Crumbling Ashes"/>
-        <card number="1" name="Mana Leak"/>
-        <card number="1" name="Azorius Signet"/>
         <card number="1" name="Thrummingbird"/>
-        <card number="1" name="Glen Elendra Archmage"/>
         <card number="1" name="Birds of Paradise"/>
         <card number="1" name="Vraska the Unseen"/>
         <card number="1" name="Midnight Banshee"/>
         <card number="1" name="Heartmender"/>
-        <card number="1" name="Assassin's Trophy"/>
         <card number="1" name="Devoted Druid"/>
+        <card number="1" name="Glen Elendra Archmage"/>
+        <card number="1" name="Swords to Plowshares"/>
+        <card number="1" name="Master Biomancer"/>
+        <card number="1" name="Cyclonic Rift"/>
+        <card number="1" name="Scarscale Ritual"/>
+        <card number="1" name="Wickerbough Elder"/>
+        <card number="1" name="Sylvan Reclamation"/>
     </zone>
 </cockatrice_deck>

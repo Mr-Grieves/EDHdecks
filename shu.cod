@@ -9,7 +9,6 @@
         <card number="1" name="Goblin Electromancer"/>
         <card number="1" name="Niblis of Frost"/>
         <card number="1" name="Thing in the Ice"/>
-        <card number="1" name="Counterspell"/>
         <card number="1" name="Negate"/>
         <card number="1" name="Preordain"/>
         <card number="1" name="Serum Visions"/>
@@ -30,7 +29,6 @@
         <card number="1" name="Temple of Enlightenment"/>
         <card number="1" name="Temple of Epiphany"/>
         <card number="1" name="Temple of Triumph"/>
-        <card number="1" name="Prairie Stream"/>
         <card number="1" name="Evolving Wilds"/>
         <card number="1" name="Terramorphic Expanse"/>
         <card number="1" name="Steam Vents"/>
@@ -41,11 +39,13 @@
         <card number="1" name="Gods Willing"/>
         <card number="1" name="Supreme Verdict"/>
         <card number="1" name="Compulsive Research"/>
-        <card number="1" name="Remand"/>
         <card number="1" name="Swords to Plowshares"/>
         <card number="1" name="Cyclonic Rift"/>
         <card number="1" name="Valorous Stance"/>
         <card number="1" name="Augur of Bolas"/>
+        <card number="1" name="Condescend"/>
+        <card number="1" name="Disenchant"/>
+        <card number="1" name="Hallowed Fountain"/>
     </zone>
     <zone name="side">
         <card number="1" name="Arclight Phoenix"/>
